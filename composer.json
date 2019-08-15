@@ -28,5 +28,7 @@
     "sempro/phpunit-pretty-print": "^1.1",
     "vimeo/psalm": "^3.4"
   },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {}
 }
