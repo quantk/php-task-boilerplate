@@ -6,4 +6,6 @@
 Task description
 
 # How to use
-Usage description
+```shell script
+composer create-project quantick/php-task-boilerplate --prefer-dist <project name>
+```
